@@ -86,8 +86,7 @@ Welcome to the Ultimate DSA (Data Structures and Algorithms) Toolkit – your co
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Raghavendra-Reddy-Padala/ultimate-dsa-toolkit.git
-
+git clone https://github.com/Raghavendra-Reddy-Padala/DSA
 # Navigate to the project directory
 cd dsa
 
@@ -111,7 +110,7 @@ Contributions are what make the open-source community an incredible place to lea
 
 Your Name - [raghavareddy666@gmail.com](mailto:raghavareddy666@gmail.com)
 
-Project Link: [https://github.com/Raghavendra-Reddy-Padala/DSA](https://github.com/yourusername/ultimate-dsa-toolkit)
+Project Link: [https://github.com/Raghavendra-Reddy-Padala/DSA](https://github.com/yourusername/DSA)
 
 ---
 
